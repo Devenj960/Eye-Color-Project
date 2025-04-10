@@ -12,3 +12,4 @@ A simple python project that that takes input to determine the eye color of 2 pa
 
 
 <h2>Link to Program</h2>
+https://github.com/Devenj960/Eye-Color-Project/tree/main/Lab%206
